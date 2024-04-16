@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "braceletName": "Sapphire Dream",
+    "img": "/public/imgs/featured/pngwing.com (6).png",
+    "price": 635
+  },
+  {
+    "id": 2,
+    "braceletName": "Emerald Enchantment",
+    "img": "/public/imgs/featured/pngwing.com (7).png",
+    "price": 1400
+  },
+  {
+    "id": 3,
+    "braceletName": "Amethyst Elegance",
+    "img": "/public/imgs/featured/pngwing.com (15).png",
+    "price": 1198
+  },
+  {
+    "id": 4,
+    "braceletName": "Ruby Royale",
+    "img": "/public/imgs/featured/pngwing.com (16).png",
+    "price": 1728
+  },
+  {
+    "id": 5,
+    "braceletName": "Topaz Treasure",
+    "img": "/public/imgs/featured/pngwing.com (17).png",
+    "price": 719
+  },
+  {
+    "id": 6,
+    "braceletName": "Diamond Delight",
+    "img": "/public/imgs/featured/pngwing.com (19).png",
+    "price": 1723
+  },
+  {
+    "id": 7,
+    "braceletName": "Pearl Paradise",
+    "img": "/public/imgs/featured/pngwing.com (20).png",
+    "price": 1856
+  },
+  {
+    "id": 8,
+    "braceletName": "Opal Opulence",
+    "img": "/public/imgs/featured/pngwing.com (21).png",
+    "price": 1461
+  },
+  {
+    "id": 9,
+    "braceletName": "Turquoise Temptation",
+    "img": "/public/imgs/featured/pngwing.com (14).png",
+    "price": 1532
+  }
+]

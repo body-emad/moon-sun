@@ -1,0 +1,1 @@
+Here are gonna be the components that are made specifically for a specific page

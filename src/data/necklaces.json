@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "necklaceName": "Diamond Solitaire Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (16).png",
+    "discount": "20%",
+    "prevPrice": 1500,
+    "currPrice": 1200,
+    "material": "diamond"
+  },
+  {
+    "id": 2,
+    "necklaceName": "Silver Chain Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (17).png",
+    "discount": "40%",
+    "prevPrice": 120,
+    "currPrice": 72,
+    "material": "silver"
+  },
+  {
+    "id": 3,
+    "necklaceName": "Gold Pendant Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (18).png",
+    "discount": "15%",
+    "prevPrice": 450,
+    "currPrice": 382,
+    "material": "gold"
+  },
+  {
+    "id": 4,
+    "necklaceName": "Emerald Choker Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (19).png",
+    "discount": "30%",
+    "prevPrice": 800,
+    "currPrice": 560,
+    "material": "unknown"
+  },
+  {
+    "id": 5,
+    "necklaceName": "Ruby Heart Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (20).png",
+    "discount": "25%",
+    "prevPrice": 600,
+    "currPrice": 450,
+    "material": "gold"
+  },
+  {
+    "id": 6,
+    "necklaceName": "Sapphire Strand Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (21).png",
+    "discount": "35%",
+    "prevPrice": 950,
+    "currPrice": 617,
+    "material": "diamond"
+  },
+  {
+    "id": 7,
+    "necklaceName": "Pearl Beaded Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (22).png",
+    "discount": "50%",
+    "prevPrice": 180,
+    "currPrice": 90,
+    "material": "pearl"
+  },
+  {
+    "id": 8,
+    "necklaceName": "Rose Gold Lariat Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (16).png",
+    "discount": "18%",
+    "prevPrice": 320,
+    "currPrice": 262,
+    "material": "gold"
+  },
+  {
+    "id": 9,
+    "necklaceName": "Platinum Cross Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (19).png",
+    "discount": "28%",
+    "prevPrice": 600,
+    "currPrice": 432,
+    "material": "platinum"
+  },
+  {
+    "id": 10,
+    "necklaceName": "Amethyst Pendant Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (20).png",
+    "discount": "22%",
+    "prevPrice": 280,
+    "currPrice": 218,
+    "material": "amethyst"
+  },
+  {
+    "id": 11,
+    "necklaceName": "Pearl Beaded Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (22).png",
+    "discount": "50%",
+    "prevPrice": 180,
+    "currPrice": 90,
+    "material": "pearl"
+  },
+  {
+    "id": 5,
+    "necklaceName": "Ruby Heart Necklace",
+    "img": "/public/imgs/necklaces/pngwing.com (20).png",
+    "discount": "25%",
+    "prevPrice": 600,
+    "currPrice": 450,
+    "material": "gold"
+  }
+]

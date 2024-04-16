@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "braceletName": "Golden Charm Bracelet",
+    "img": "/public/imgs/monthly deals/img1.png",
+    "discount": "22%",
+    "prevPrice": 59,
+    "currPrice": 78
+  },
+  {
+    "id": 2,
+    "braceletName": "Silver Bangle Bracelet",
+    "img": "/public/imgs/monthly deals/img2.png",
+    "discount": "61%",
+    "prevPrice": 92,
+    "currPrice": 36
+  },
+  {
+    "id": 3,
+    "braceletName": "Crystal Bead Bracelet",
+    "img": "/public/imgs/monthly deals/img3.png",
+    "discount": "27%",
+    "prevPrice": 88,
+    "currPrice": 64
+  },
+  {
+    "id": 4,
+    "braceletName": "Leather Wrap Bracelet",
+    "img": "/public/imgs/monthly deals/img4.png",
+    "discount": "31%",
+    "prevPrice": 54,
+    "currPrice": 78
+  }
+]

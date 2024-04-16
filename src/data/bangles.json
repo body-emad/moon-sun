@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "bangleName": "Gold Filigree Bangle",
+    "img": "/public/imgs/bangles/pngwing.com (16).png",
+    "discount": "25%",
+    "prevPrice": 350,
+    "currPrice": 262,
+    "material": "gold"
+  },
+  {
+    "id": 2,
+    "bangleName": "Diamond Encrusted Bangle",
+    "img": "/public/imgs/bangles/pngwing.com (17).png",
+    "discount": "30%",
+    "prevPrice": 1200,
+    "currPrice": 840,
+    "material": "diamond"
+  },
+  {
+    "id": 3,
+    "bangleName": "Silver Twist Bangle",
+    "img": "/public/imgs/bangles/pngwing.com (20).png",
+    "discount": "40%",
+    "prevPrice": 100,
+    "currPrice": 60,
+    "material": "silver"
+  },
+  {
+    "id": 4,
+    "bangleName": "Rose Gold Cuff Bangle",
+    "img": "/public/imgs/bangles/pngwing.com (19).png",
+    "discount": "15%",
+    "prevPrice": 280,
+    "currPrice": 238,
+    "material": "gold"
+  },
+  {
+    "id": 5,
+    "bangleName": "Emerald Studded Bangle",
+    "img": "/public/imgs/bangles/pngwing.com (20).png",
+    "discount": "22%",
+    "prevPrice": 450,
+    "currPrice": 351,
+    "material": "emerald"
+  },
+  {
+    "id": 6,
+    "bangleName": "Pearl Bangle Bracelet",
+    "img": "/public/imgs/bangles/pngwing.com (21).png",
+    "discount": "35%",
+    "prevPrice": 180,
+    "currPrice": 117,
+    "material": "pearl"
+  },
+  {
+    "id": 7,
+    "bangleName": "Platinum Slim Bangle",
+    "img": "/public/imgs/bangles/pngwing.com (22).png",
+    "discount": "18%",
+    "prevPrice": 400,
+    "currPrice": 328,
+    "material": "platinum"
+  },
+  {
+    "id": 8,
+    "bangleName": "Ruby Charm Bangle",
+    "img": "/public/imgs/bangles/pngwing.com (16).png",
+    "discount": "20%",
+    "prevPrice": 500,
+    "currPrice": 400,
+    "material": "ruby"
+  },
+  {
+    "id": 9,
+    "bangleName": "Amethyst Bangle Bracelet",
+    "img": "/public/imgs/bangles/pngwing.com (19).png",
+    "discount": "28%",
+    "prevPrice": 180,
+    "currPrice": 130,
+    "material": "amethyst"
+  },
+  {
+    "id": 10,
+    "bangleName": "Silver Engraved Bangle",
+    "img": "/public/imgs/bangles/pngwing.com (22).png",
+    "discount": "50%",
+    "prevPrice": 80,
+    "currPrice": 40,
+    "material": "silver"
+  },
+  {
+    "id": 11,
+    "bangleName": "Diamond Encrusted Bangle",
+    "img": "/public/imgs/bangles/pngwing.com (17).png",
+    "discount": "30%",
+    "prevPrice": 1200,
+    "currPrice": 840,
+    "material": "diamond"
+  },
+  {
+    "id": 12,
+    "bangleName": "Rose Gold Cuff Bangle",
+    "img": "/public/imgs/bangles/pngwing.com (19).png",
+    "discount": "15%",
+    "prevPrice": 280,
+    "currPrice": 238,
+    "material": "gold"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "braceletName": "Golden Charm Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (6).png",
+    "discount": "22%",
+    "prevPrice": 59,
+    "currPrice": 78,
+    "material": "gold"
+  },
+  {
+    "id": 2,
+    "braceletName": "Silver Bangle Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (7).png",
+    "discount": "61%",
+    "prevPrice": 92,
+    "currPrice": 36,
+    "material": "silver"
+  },
+  {
+    "id": 3,
+    "braceletName": "Crystal Bead Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (8).png",
+    "discount": "27%",
+    "prevPrice": 88,
+    "currPrice": 64,
+    "material": "diamond"
+  },
+  {
+    "id": 4,
+    "braceletName": "Leather Wrap Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (9).png",
+    "discount": "31%",
+    "prevPrice": 54,
+    "currPrice": 78,
+    "material": "unknown"
+  },
+  {
+    "id": 5,
+    "braceletName": "Diamond Tennis Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (10).png",
+    "discount": "15%",
+    "prevPrice": 1200,
+    "currPrice": 1020,
+    "material": "diamond"
+  },
+  {
+    "id": 6,
+    "braceletName": "Rose Gold Cuff Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (11).png",
+    "discount": "40%",
+    "prevPrice": 150,
+    "currPrice": 90,
+    "material": "gold"
+  },
+  {
+    "id": 7,
+    "braceletName": "Silver Charm Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (12).png",
+    "discount": "50%",
+    "prevPrice": 80,
+    "currPrice": 40,
+    "material": "silver"
+  },
+  {
+    "id": 8,
+    "braceletName": "Emerald Gold Link Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (13).png",
+    "discount": "20%",
+    "prevPrice": 300,
+    "currPrice": 240,
+    "material": "gold"
+  },
+  {
+    "id": 9,
+    "braceletName": "Blue Topaz Silver Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (14).png",
+    "discount": "35%",
+    "prevPrice": 120,
+    "currPrice": 78,
+    "material": "silver"
+  },
+  {
+    "id": 10,
+    "braceletName": "Sapphire Gold Bangle",
+    "img": "/public/imgs/bracelets/pngwing.com (15).png",
+    "discount": "18%",
+    "prevPrice": 450,
+    "currPrice": 369,
+    "material": "gold"
+  },
+  {
+    "id": 11,
+    "braceletName": "Silver Bangle Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (7).png",
+    "discount": "61%",
+    "prevPrice": 92,
+    "currPrice": 36,
+    "material": "silver"
+  },
+  {
+    "id": 12,
+    "braceletName": "Leather Wrap Bracelet",
+    "img": "/public/imgs/bracelets/pngwing.com (9).png",
+    "discount": "31%",
+    "prevPrice": 54,
+    "currPrice": 78,
+    "material": "unknown"
+  }
+]

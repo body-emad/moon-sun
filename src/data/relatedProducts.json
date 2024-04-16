@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "braceletName": "Mystic Moonstone Bracelet",
+    "img": "/public/imgs/related products/RecentNewsImg.png",
+    "prevPrice": 59,
+    "currPrice": 78
+  },
+  {
+    "id": 2,
+    "braceletName": "Ocean Waves Cuff",
+    "img": "/public/imgs/related products/Rectangle-1.png",
+    "prevPrice": 92,
+    "currPrice": 36
+  },
+  {
+    "id": 3,
+    "braceletName": "Emerald Elegance Charm",
+    "img": "/public/imgs/related products/Rectangle.png",
+    "prevPrice": 88,
+    "currPrice": 64
+  },
+  {
+    "id": 4,
+    "braceletName": "Sunset Serenade Wrap",
+    "img": "/public/imgs/related products/testmonialImg.png",
+    "prevPrice": 54,
+    "currPrice": 78
+  }
+]
